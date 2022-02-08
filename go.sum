@@ -1,2 +1,14 @@
+github.com/alex-shpak/hugo-book v0.0.0-20220113182002-3a65df3a76e2 h1:Z9qihHQUaoDO6AT3+NiNgEA2J7q+QdglapqabPu8eaE=
+github.com/alex-shpak/hugo-book v0.0.0-20220113182002-3a65df3a76e2/go.mod h1:L4NMyzbn15fpLIpmmtDg9ZFFyTZzw87/lk7M2bMQ7ds=
+github.com/babylonhealth/hugo-sub-site v0.0.0-20220210131838-fb6c39b7b897 h1:S1vVwRf1SkpXGTRfq5bBqBDo/8x+NcYed878GVNYmJ4=
+github.com/babylonhealth/hugo-sub-site v0.0.0-20220210131838-fb6c39b7b897/go.mod h1:B6VUzcIggeP+CIYeVU/9K7eGZUpErqf0+iSGhJ4SjI8=
+github.com/babylonhealth/hugo-sub-site v0.0.0-20220210132353-d47740ebc116 h1:eUHM8PYzbnYclIoM62ugM9kfFkl+C3ZEwpaIKXR8g4A=
+github.com/babylonhealth/hugo-sub-site v0.0.0-20220210132353-d47740ebc116/go.mod h1:B6VUzcIggeP+CIYeVU/9K7eGZUpErqf0+iSGhJ4SjI8=
+github.com/babylonhealth/hugo-sub-site v0.0.0-20220210132441-d060f38585a8 h1:12hFMd4862wA8U2GQqy1PtNNAsZfm9LuPBw1/9EDLAc=
+github.com/babylonhealth/hugo-sub-site v0.0.0-20220210132441-d060f38585a8/go.mod h1:B6VUzcIggeP+CIYeVU/9K7eGZUpErqf0+iSGhJ4SjI8=
+github.com/babylonhealth/hugo-sub-site v0.0.0-20220210152223-16730918fcbf h1:nzy2JPQjxRNmUmcsG1JZLgEdEuZw73u8CG0IlqnUVh8=
+github.com/babylonhealth/hugo-sub-site v0.0.0-20220210152223-16730918fcbf/go.mod h1:B6VUzcIggeP+CIYeVU/9K7eGZUpErqf0+iSGhJ4SjI8=
+github.com/rvodden/hugo-sub-site v0.0.0-20220210183618-7df23f3eb269 h1:3Ev2TNvjk1CbF+rfJgS1OGh1qKrlNN+7gFaF9nEAC60=
+github.com/rvodden/hugo-sub-site v0.0.0-20220210183618-7df23f3eb269/go.mod h1:LwlbpGXi3DOBTO5clCrMZZRRZFBZ3tWd7exFpbgd9DE=
 github.com/spf13/hyde v1.1.0 h1:ZKOakmybNrsaUQCZsf/XwwGIp6NHjUuU3klBgVuoees=
 github.com/spf13/hyde v1.1.0/go.mod h1:CSmLWCbXXInaA5zAkwAQ0EbwpR7Pe74eSmDxdGspoCY=

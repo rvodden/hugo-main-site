@@ -2,6 +2,17 @@
 module:
   imports:
     - path: github.com/spf13/hyde
-    - path: ../sub-site
-      source: "content"
-      target: "content/sub-site"
+    - path: github.com/rvodden/hugo-sub-site
+      mounts:
+        source: "content"
+        target: "content/sub-site"
+
+menu:
+- main:
+    name: Source Code
+    url: https://example.com/
+    weight: 20
+
+security:
+exec:
+    osEnv: ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM|HOME|SSH_AUTH_SOCK|USERPROFILE|XDG_CONFIG_HOME)$']
